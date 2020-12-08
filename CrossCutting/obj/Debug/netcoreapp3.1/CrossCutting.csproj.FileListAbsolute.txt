@@ -1,0 +1,11 @@
+C:\Users\tilad\source\repos\AirLiquideTeste\CrossCutting\bin\Debug\netcoreapp3.1\CrossCutting.deps.json
+C:\Users\tilad\source\repos\AirLiquideTeste\CrossCutting\bin\Debug\netcoreapp3.1\CrossCutting.dll
+C:\Users\tilad\source\repos\AirLiquideTeste\CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.csprojAssemblyReference.cache
+C:\Users\tilad\source\repos\AirLiquideTeste\CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.AssemblyInfoInputs.cache
+C:\Users\tilad\source\repos\AirLiquideTeste\CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.AssemblyInfo.cs
+C:\Users\tilad\source\repos\AirLiquideTeste\CrossCutting\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\tilad\source\repos\AirLiquideTeste\CrossCutting\bin\Debug\netcoreapp3.1\CrossCutting.pdb
+C:\Users\tilad\source\repos\AirLiquideTeste\CrossCutting\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\tilad\source\repos\AirLiquideTeste\CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.csproj.CopyComplete
+C:\Users\tilad\source\repos\AirLiquideTeste\CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.dll
+C:\Users\tilad\source\repos\AirLiquideTeste\CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.pdb

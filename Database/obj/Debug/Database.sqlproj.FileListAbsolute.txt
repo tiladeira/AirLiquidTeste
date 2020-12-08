@@ -1,0 +1,6 @@
+C:\Users\tilad\source\repos\AirLiquideTeste\Database\bin\Debug\Database.dacpac
+C:\Users\tilad\source\repos\AirLiquideTeste\Database\bin\Debug\Database.dll
+C:\Users\tilad\source\repos\AirLiquideTeste\Database\bin\Debug\Database.pdb
+C:\Users\tilad\source\repos\AirLiquideTeste\Database\obj\Debug\Database.sqlprojAssemblyReference.cache
+C:\Users\tilad\source\repos\AirLiquideTeste\Database\obj\Debug\Database.dll
+C:\Users\tilad\source\repos\AirLiquideTeste\Database\obj\Debug\Database.pdb

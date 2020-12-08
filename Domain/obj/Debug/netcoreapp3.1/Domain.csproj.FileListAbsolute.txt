@@ -1,0 +1,8 @@
+C:\Users\tilad\source\repos\AirLiquideTeste\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+C:\Users\tilad\source\repos\AirLiquideTeste\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\tilad\source\repos\AirLiquideTeste\Domain\obj\Debug\netcoreapp3.1\Domain.csprojAssemblyReference.cache
+C:\Users\tilad\source\repos\AirLiquideTeste\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+C:\Users\tilad\source\repos\AirLiquideTeste\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+C:\Users\tilad\source\repos\AirLiquideTeste\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\tilad\source\repos\AirLiquideTeste\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+C:\Users\tilad\source\repos\AirLiquideTeste\Domain\obj\Debug\netcoreapp3.1\Domain.pdb
